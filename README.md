@@ -281,7 +281,7 @@ pickle
 ### 8.2 Project Structure
 
 ```
-HW3/
+root/
 ├── README.md                 # This document
 ├── src/
 │   ├── model.py              # LSTM model implementation
