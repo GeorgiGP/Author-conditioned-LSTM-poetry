@@ -283,7 +283,7 @@ pickle
 ```
 HW3/
 ├── README.md                 # This document
-├── a3/
+├── src/
 │   ├── model.py              # LSTM model implementation
 │   ├── generator.py          # Text generation function
 │   ├── train.py              # Training and perplexity functions
@@ -309,13 +309,12 @@ HW3/
 
 ```bash
 # Create and activate virtual environment (first time only)
-cd HW3
 python3 -m venv venv
 source venv/bin/activate
 pip install torch numpy
 
 # Navigate to working directory
-cd a3
+cd src
 
 # Prepare data from corpus
 python run.py prepare
