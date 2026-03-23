@@ -3,10 +3,8 @@
 ## Author-Conditioned Character-Level Neural Language Model
 
 **Author:** Georgi H. Lazov
-**Student ID:** 0MI0600299
 **Course:** Information Retrieval and Deep Learning
 **Instructor:** Prof. Stoyan Mihov
-**Semester:** Winter 2025/2026
 
 ---
 
