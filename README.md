@@ -2,9 +2,8 @@
 
 ## Author-Conditioned Character-Level Neural Language Model
 
-**Author:** Georgi H. Lazov
-**Course:** Information Retrieval and Deep Learning
-**Instructor:** Prof. Stoyan Mihov
+### Developed by Georgi H. Lazov
+#### An implementation of a multi-layer LSTM designed to generate Bulgarian poetry by conditioning on author-specific stylistic embeddings.
 
 ---
 
